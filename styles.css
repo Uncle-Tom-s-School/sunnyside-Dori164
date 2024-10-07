@@ -1,0 +1,24 @@
+.nav-container{
+    max-height: 10000px;
+    max-width: 10000px;
+}
+.middle{
+    display: flex;
+}
+.imm{
+    display: flex;
+}
+.middle-ill{
+    display: flex;
+}
+.imgk{
+    background-image: url(images/desktop/image-graphic-design.jpg);
+    height:600px;
+}
+.p{
+    top: 200px;
+}
+.imgh{
+    background-image: url(images/desktop/image-photography.jpg);
+    height: 600px;
+}
